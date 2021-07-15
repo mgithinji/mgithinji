@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @mgithinji
-- 👀 I’m interested in software that makes life magical.
+- 👋 Hi, I’m Morgan.
+- 👀 I’m interested in software that makes tech feel like magic.
 - 🌱 I’m currently learning how to make machines understand nanophysics.
 - 💞️ I’m looking to collaborate on full stack development (web and mobile).
 - 📫 How to reach me? Email me githinjimorgan@gmail.com
